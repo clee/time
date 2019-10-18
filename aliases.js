@@ -1,0 +1,13 @@
+var ALIASES = {};
+ALIASES["cfg_if"] = {};
+ALIASES["log"] = {};
+ALIASES["paste"] = {};
+ALIASES["paste_impl"] = {};
+ALIASES["proc_macro2"] = {};
+ALIASES["proc_macro_hack"] = {};
+ALIASES["quote"] = {};
+ALIASES["serde"] = {};
+ALIASES["serde_derive"] = {};
+ALIASES["syn"] = {};
+ALIASES["time"] = {};
+ALIASES["unicode_xid"] = {};

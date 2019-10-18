@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["NumericalDuration","Create `Duration`s from primitive and core numeric types."],["NumericalStdDuration","Create `std::time::Duration`s from primitive and core numeric types."]]});
